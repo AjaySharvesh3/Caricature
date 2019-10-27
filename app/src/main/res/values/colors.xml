@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#19AA8B</color>
+    <color name="colorAccent">#F44336</color>
+
+    <color name="whiteTransparentHalf">#80ffffff</color>
+
+    <color name="likeBtnGray">#747474</color>
+    <color name="likeBtnAccent">#F44336</color>
+
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradStart">#19AA8B</color>
+    <color name="gradEnd">#23A7D8</color>
+</resources>
